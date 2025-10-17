@@ -1,4 +1,18 @@
-## Hi there 👋
+## Olá 👋 Somos o Grupo Elza Soares.
+
+Turma 19 do Mulheres in Tech–versão IA 2025
+
+Integrantes:
+
+- Aline Santos
+- Ana Paula Palandi
+- Ana Catarina
+- Carla Silvares
+- Isabel Pacheco
+- Julia Gimenes
+- Vanessa Vicente
+- Veronica Macêdo
+
 
 <!--
 **GrupoElzaSoares/GrupoElzaSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
