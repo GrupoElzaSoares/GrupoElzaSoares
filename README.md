@@ -1,6 +1,6 @@
 ## Olá 👋 Somos o Grupo Elza Soares.
 
-Turma 19 do Mulheres in Tech–versão IA 2025
+Turma 19 do Mulheres in Tech – versão IA 2025
 
 Integrantes:
 
