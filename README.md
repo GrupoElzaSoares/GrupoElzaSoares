@@ -13,6 +13,7 @@ Integrantes:
 - Vanessa Vicente
 - Veronica Macêdo
 
-[Apresentação do trabalho](https://docs.google.com/presentation/d/1DNmvuv7DHP4aeD6WpJ9urG4AaVdP638B/edit?usp=sharing&ouid=113341098138423253920&rtpof=true&sd=true)
+[Apresentação do trabalho](https://docs.google.com/presentation/d/1jIeU6jOHBKBxXKpLpeblSj12-tT2zQ8p/edit?usp=sharing&ouid=113341098138423253920&rtpof=true&sd=true)
 
+[Teste do chatbot no Telegram](https://t.me/Segura_intech_bot)
 
